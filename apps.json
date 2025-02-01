@@ -6,6 +6,7 @@
     },
     {
         "urls": {
+                        "FISH": "FISSH://",
             "WhatsApp": "whatsapp://",
             "Facebook": "fb://",
             "Facebook Messenger": "fb-messenger://",
