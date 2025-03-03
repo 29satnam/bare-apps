@@ -100,7 +100,7 @@
         "League of Legends": "leagueoflegends://",
         "LinkedIn": "linkedin://",
         "Loom": "loom://",
-        "Message": "message://",
+        "Messages": "message://",
         "Mail": "maill://",
         "Mailchimp": "mailchimp://",
         "Maps": "maps://",
@@ -247,6 +247,7 @@
         "XBMC": "sybu-xbmc://",
         "Xfinity TV": "xfinitytv://",
         "Zappiti 4K": "zmc4kremote://",
-        "Zappiti Old": "zmc://"
+        "Zappiti Old": "zmc://",
+        "Unscroll": "unscrollapp://"
     }
-]
+] 
