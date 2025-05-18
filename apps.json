@@ -101,8 +101,8 @@
         "League of Legends": "leagueoflegends://",
         "LinkedIn": "linkedin://",
         "Loom": "loom://",
-        "Messages": "message://",
-        "Mail": "maill://",
+        "Messages": "iChat://",
+        "Mail": "message://",
         "Mailchimp": "mailchimp://",
         "Maps": "maps://",
         "Measure": "measure://",
@@ -252,4 +252,4 @@
         "Zappiti Old": "zmc://",
         "Unscroll": "unscrollapp://"
     }
-] 
+]
