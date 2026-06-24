@@ -300,6 +300,9 @@
         "VSCO": "vsco://",
         "Walmart": "walmart://",
         "Wattpad": "wattpad://",
-        "YouTube Music": "youtubemusic://"
+        "YouTube Music": "youtubemusic://",
+        "DuckDuckGo": "ddgQuickLink://",
+        "Revolut": "revolut://",
+        "Peloton": "pelotoncycle://"
     }
 ]
