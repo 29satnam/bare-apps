@@ -303,6 +303,11 @@
         "YouTube Music": "youtubemusic://",
         "DuckDuckGo": "ddgQuickLink://",
         "Revolut": "revolut://",
-        "Peloton": "pelotoncycle://"
+        "Peloton": "pelotoncycle://",
+        "Apple Music Classical": "classical://",
+        "Clips": "clips://",
+        "GarageBand": "garageband://",
+        "iMovie": "imovie://",
+        "Messages": "sms://"
     }
 ]
